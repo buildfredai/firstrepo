@@ -1,3 +1,3 @@
 # firstrepo
-<h1>Author : Krishna Kumar</h1>
+<h1>Author : Krishna Gupta</h1>
 This is my first repository. 
